@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author SHRIYA JAISWAL
+ * @author Murtaza Khambaty
  */
 public class Naive1 {
 
